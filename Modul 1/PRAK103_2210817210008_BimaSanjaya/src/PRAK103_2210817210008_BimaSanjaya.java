@@ -6,15 +6,15 @@ public class PRAK103_2210817210008_BimaSanjaya {
         int N = input.nextInt();
         System.out.print("");
         int bilanganAwal = input.nextInt();
-        int urutan = 1;
+        int deret = 1;
         do {
             if (bilanganAwal % 2 != 0) {
                 System.out.print(" " + bilanganAwal);
-                urutan++;
+                deret++;
             }
             bilanganAwal++;
         }
-        while (urutan <= N);
+        while (deret <= N);
         input.close();
     }
 }
