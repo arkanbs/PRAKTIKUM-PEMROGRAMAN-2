@@ -1,6 +1,6 @@
 import java.util.Scanner;
 
-public class PRAK105_2210817210008_BimaSanjaya {
+public class PRAK005_2210817210008_BimaSanjaya {
     public static void main(String[] args) {
         String makanan, hobi;
 
