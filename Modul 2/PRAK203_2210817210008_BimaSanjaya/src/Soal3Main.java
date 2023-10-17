@@ -1,5 +1,3 @@
-import java.sql.SQLOutput;
-
 public class Soal3Main {
     public static void main(String[] args) {
         Pegawai p1 = new Pegawai();

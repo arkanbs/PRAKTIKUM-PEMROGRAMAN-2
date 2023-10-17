@@ -16,8 +16,8 @@ public class Pegawai {
     }
 
     //pada baris ini terjadi error karena tidak ada tipe data variabel dalam parameter
-    //public void setJabatan() {
-    public void setJabatan(String j) { //kita isikan tipe data String disertai variabelnya parameter
+    //public void setJabatan() {}
+    public void setJabatan(String j) { //kita isikan tipe data String disertai variabelnya pada parameter
         this.jabatan = j;
     }
 }
